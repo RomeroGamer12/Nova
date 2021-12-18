@@ -3,7 +3,7 @@
 
 >hosting
 you need a good hosting for a bot tht has over 100 commnads
-sujested()
+suggested services
 [somehost](https://discord.gg/GnABaNXGUU)
 [artioms](https://discord.gg/jxDrygvkFP)
 [bot-hosting.net](https://discord.gg/kVFYTjSqdE)
