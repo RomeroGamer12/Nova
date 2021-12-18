@@ -4,9 +4,9 @@
 >hosting
 you need a good hosting for a bot tht has over 100 commnads
 suggested services
-[somehost](https://discord.gg/GnABaNXGUU)
-[artioms](https://discord.gg/jxDrygvkFP)
-[bot-hosting.net](https://discord.gg/kVFYTjSqdE)
+[somehost](https://discord.gg/GnABaNXGUU), 
+[artioms](https://discord.gg/jxDrygvkFP), 
+[bot-hosting.net](https://discord.gg/kVFYTjSqdE) and
 [solonodes](https://discord.gg/stHH2hm4DP)
 
 >setup
