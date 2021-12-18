@@ -1,5 +1,14 @@
 # Nova
 
+
+>hosting
+you need a good hosting for a bot tht has over 100 commnads
+sujested()
+[somehost](https://discord.gg/GnABaNXGUU)
+[artioms](https://discord.gg/jxDrygvkFP)
+[bot-hosting.net](https://discord.gg/kVFYTjSqdE)
+[solonodes](https://discord.gg/stHH2hm4DP)
+
 >setup
 go to index.js get ur bots token [here](https://discord.com/developers/applications/) if u use replit use this code
 ```js
@@ -2913,11 +2922,3 @@ $onlyIf[$voiceID!=;$getVar[errorjoin]]
 $suppressErrors[something just happened.]`
 });
 ```
-
->hosting
-you need a good hosting for a bot tht has over 100 commnads
-sujested()
-[somehost]()
-[artioms]()
-[bot-hosting.net]()
-[solonodes]()
