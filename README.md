@@ -8,6 +8,7 @@ suggested services
 [artioms](https://discord.gg/jxDrygvkFP), 
 [bot-hosting.net](https://discord.gg/kVFYTjSqdE) and
 [solonodes](https://discord.gg/stHH2hm4DP)
+[Luxxy](https://discord.gg/T6jXUKB5)
 
 >setup
 go to index.js get ur bots token [here](https://discord.com/developers/applications/) if u use replit use this code
